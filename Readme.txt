@@ -1,0 +1,1 @@
+Simple Java project with Maven based on maven-archetype-quickstart.
